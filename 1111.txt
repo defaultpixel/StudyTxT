@@ -1,0 +1,2 @@
+http://blog.csdn.net/ccpat/article/details/50738811            Android R.java类的手动生成
+http://blog.csdn.net/way_ping_li/article/details/8487866       Android将应用log信息保存文件
