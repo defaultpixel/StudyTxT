@@ -1,2 +1,3 @@
-http://blog.csdn.net/ccpat/article/details/50738811            Android R.java类的手动生成
-http://blog.csdn.net/way_ping_li/article/details/8487866       Android将应用log信息保存文件
+http://blog.csdn.net/ccpat/article/details/50738811            Android R.java绫荤殑鎵嬪姩鐢熸垚
+http://blog.csdn.net/way_ping_li/article/details/8487866       Android灏嗗簲鐢╨og淇℃伅淇濆瓨鏂囦欢
+https://developer.android.google.cn/kotlin/get-started.html 聽  Android瀹樻柟鏂囨。 Kotlin
