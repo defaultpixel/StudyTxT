@@ -2,3 +2,4 @@ http://blog.csdn.net/ccpat/article/details/50738811            Android R.java类
 http://blog.csdn.net/way_ping_li/article/details/8487866       Android将应用log信息保存文件
 https://developer.android.google.cn/kotlin/get-started.html    Android官方文档 Kotlin
 http://blog.csdn.net/column/details/13683.html                 CSDN:Kotlin专栏
+http://www.jianshu.com/p/445bada56d14                          使用Anko替代xml
