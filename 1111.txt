@@ -8,3 +8,4 @@ https://try.kotlinlang.org/#/Examples/Hello,%20world!/Simplest%20version/Simples
 https://antonioleiva.com/dialogs-android-anko-kotlin/          Kotlin&Anko Alerts&Progress
 http://mp.weixin.qq.com/s/RV8kj1ZnFd35ZmGBwdxAxw               Kotlin open source
 http://www.cnblogs.com/ldq2016/p/5217590.html                  UI
+http://blog.csdn.net/swordfishx82                              简雨的专栏
